@@ -1,1 +1,1 @@
-A recreation of a simplified version of the Unix shell. Features the use of pipes, input and output redirection, and built-in commands such as "exit", "ls", "cd", etc.
+Recreation of a Unix shell in C from scratch. The shell can parse user input and handle signals, basic commands, input and output redirection, and the use of pipes.
